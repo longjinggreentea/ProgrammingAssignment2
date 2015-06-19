@@ -1,3 +1,4 @@
+## Assignment 2 ##
 ## This pair of functions are used to catch the inverse 
 ## of a matrix. Assuming the matrix supplied here is 
 ## always invertible.
